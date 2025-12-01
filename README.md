@@ -28,8 +28,6 @@ Sou apaixonado por criar soluções eficientes e seguras utilizando várias ling
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks e Ferramentas:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,7 +35,9 @@ Sou apaixonado por criar soluções eficientes e seguras utilizando várias ling
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
+![Particles.js](https://img.shields.io/badge/Particles.js-00bcd4?style=for-the-badge&logo=databricks&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-000000?style=for-the-badge&logo=airplayvideo&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 
 ## 🌟 Projetos em Destaque
@@ -71,3 +71,12 @@ Feito com HTML5 Canvas e JavaScript puro.<br>
 
 
 ## Estou sempre aberto a parcerias, freelas ou oportunidades de trabalho. Vamos conversar!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jhonnatan-Costa&color=blue&style=for-the-badge" alt="Visualizações do perfil" />
+</p>
+
+
+
+
+
