@@ -1,7 +1,8 @@
 # Jhonnatan_Costa | DEV.
 <p align="center">
-  <img src="https://f.top4top.io/p_36222fcug1.png" alt="Jhonnatan Costa" width="250">
+  <img src="https://f.top4top.io/p_36222fcug1.png" alt="Jhonnatan Costa" width="650">
 </p>
+
 
 # 👋 Olá
 
