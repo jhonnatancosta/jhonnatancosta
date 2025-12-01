@@ -1,6 +1,9 @@
-# perfil_Jhonnatan_Costa
+# Jhonnatan_Costa | DEV.
+<p align="center">
+  <img src="https://f.top4top.io/p_36222fcug1.png" alt="Jhonnatan Costa" width="250">
+</p>
 
-# 👋 Olá,
+# 👋 Olá
 
 eu sou o Jhonnatan Costa — Programador Front End, Back End e Full-Stack, Especialista em Cibersegurança e Pentester.
 
@@ -56,7 +59,7 @@ Um jogo da cobrinha com visual realista e movimentação automática para perseg
 Feito com HTML5 Canvas e JavaScript puro.<br>
 👉 [Jogar agora!](https://jhonnatancosta.github.io/Jogue-a-Cobrinha-Realista/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatancosta)](https://github.com/anuraghazra/github-readme-stats)
 ### 🙏 Obrigado por visitar meu perfil!
 
-##> Estou sempre aberto a parcerias, freelas ou oportunidades de trabalho. Vamos conversar!
+
+## Estou sempre aberto a parcerias, freelas ou oportunidades de trabalho. Vamos conversar!
